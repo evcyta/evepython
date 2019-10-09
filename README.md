@@ -1,1 +1,3 @@
 # evepython
+
+sólo sé que moriré...
